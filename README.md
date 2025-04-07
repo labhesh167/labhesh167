@@ -60,7 +60,7 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 ###
 <h3 align="left">🎓 Certifications</h3>
 
-- 📜 [Programming for Everybody (Getting Started with Python) – University of Michigan (Coursera)](https://coursera.org/share/5bd6d528deefc0d15987e06b45feaec6)
+- 📜 [Programming for Everybody (Getting Started with Python) – University of Michigan (Coursera)](https://drive.google.com/file/d/1mR1U7JjLpmyEezfDy1xRpqHU4b2X3Dvy/view?usp=sharing))
 - 📜 [Microsoft Technology Associate (MTA): Web Development Fundamentals](https://drive.google.com/file/d/1RoAyxg2ZnY2cRFOqVh5rVbcImRwRZl3X/view?usp=sharing)
 - 📜 [Communication Skills – TCS iON](https://drive.google.com/file/d/1e3gRtghgGEkSBo3Flq6E1RBqD0Fwuwki/view?usp=sharing)
 - 📜 [Internship Certificate – Microspectra Software Technologies Pvt Ltd](https://drive.google.com/file/d/1_YiUo0ChJilZp9Aajb3bE1U8o-2vDDN8/view?usp=sharing)
