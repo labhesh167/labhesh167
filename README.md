@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 </div>
 
 ###
@@ -61,12 +62,9 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 <h3 align="left">🎓 Certifications</h3>
 
 - 📜 [Programming for Everybody (Getting Started with Python) – University of Michigan (Coursera)](https://drive.google.com/file/d/1mR1U7JjLpmyEezfDy1xRpqHU4b2X3Dvy/view?usp=sharing))
-- 📜 [Microsoft Technology Associate (MTA): Web Development Fundamentals](https://drive.google.com/file/d/1RoAyxg2ZnY2cRFOqVh5rVbcImRwRZl3X/view?usp=sharing)
-- 📜 [Communication Skills – TCS iON](https://drive.google.com/file/d/1e3gRtghgGEkSBo3Flq6E1RBqD0Fwuwki/view?usp=sharing)
-- 📜 [Internship Certificate – Microspectra Software Technologies Pvt Ltd](https://drive.google.com/file/d/1_YiUo0ChJilZp9Aajb3bE1U8o-2vDDN8/view?usp=sharing)
-- 📜 [Web Development Internship – Oasis InfoByte](https://drive.google.com/file/d/1CL7nDqM9cyWvHg9zNcPXDo7I6EsrYdRw/view?usp=sharing)
-- 📜 [Web Development Internship – CodeClause](https://drive.google.com/file/d/1Gs-XwEeg_5T8gqtMxjFRgE35TyCx2-9r/view?usp=sharing)
-- 📜 [Java Programming Internship – InternPe](https://drive.google.com/file/d/1KkMHl4IE_fP4LwUJ0NlWyshEG2N9VX_7/view?usp=sharing)
+- 📜 [Microsoft Technology Associate (MTA): Web Development Fundamentals](https://drive.google.com/file/d/1VGIDe177Qa3joNsBxWRm-0j5FXUEOc2Q/view?usp=sharing)
+- 📜 [Communication Skills – TCS iON](https://drive.google.com/file/d/1mLX3iNpQlyuz-UAEw-l6UH66mmQNXB_e/view?usp=sharing)
+
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
