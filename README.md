@@ -34,7 +34,7 @@
 I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune University.<br><br>
 - 🎓 2024 Graduate | Information Technology<br>
 - 🔭 I’m currently seeking opportunities as a **Software Engineer / Web Developer**<br>
-- 🌱 Currently learning: **Spring Boot**, **React**, and improving my **DSA** skills<br>
+- 🌱 Currently learning: *Spring Boot*, *React*, and improving my *DSA* skills<br>
 - 🛠️ Skilled in: Java, Web Development, MySQL, PHP<br>
 - 📚 Final Year Project: Gesture-Based Virtual Keyboard and Mouse (Published in IJSREM)<br>
 - ⚡ Fun Fact: I love building cool things with simple code!
