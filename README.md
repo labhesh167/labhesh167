@@ -62,7 +62,8 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 - 🎯 **Gesture-Based Virtual Keyboard and Mouse**  
   - Python, Haar Cascade, OpenCV, HTML/CSS/JS  
   - Uses eye and hand gestures to control input  
-  - [Published Paper](#)
+  - 📄 [Survey Paper - Gesture-Based Virtual Keyboard and Mouse](https://ijsrem.com/download/survey-on-gesture-based-virtual-keyboard-and-mouse/)  
+  - 📄 [Implementation Paper - Gesture-Based Virtual Keyboard and Mouse](https://ijsrem.com/download/implementation-of-gesture-based-virtual-keyboard-and-mouse/)
 
 - 📍 **Blood Bank Locator**  
   - Java, Google Maps API, XML UI  
@@ -71,6 +72,7 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 - 🗂️ **Complaint Management System**  
   - PHP, MySQL, JavaScript  
   - Platform to streamline exam complaint handling
+
 
 ###
 <h3 align="center">A passionate Full Stack developer from India</h3>
