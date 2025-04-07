@@ -65,13 +65,6 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
   - 📄 [Survey Paper - Gesture-Based Virtual Keyboard and Mouse](https://ijsrem.com/download/survey-on-gesture-based-virtual-keyboard-and-mouse/)  
   - 📄 [Implementation Paper - Gesture-Based Virtual Keyboard and Mouse](https://ijsrem.com/download/implementation-of-gesture-based-virtual-keyboard-and-mouse/)
 
-- 📍 **Blood Bank Locator**  
-  - Java, Google Maps API, XML UI  
-  - Uses Euclidean distance to locate nearest blood banks
-
-- 🗂️ **Complaint Management System**  
-  - PHP, MySQL, JavaScript  
-  - Platform to streamline exam complaint handling
 
 
 ###
