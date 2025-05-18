@@ -82,6 +82,9 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labhesh167&" alt="labhesh167" /></p>
 
+<a href="https://www.hackerrank.com/labheshchaudhari" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+</a>
 
 <h3 align="left">📈 GitHub Stats</h3>
 
