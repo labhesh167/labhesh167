@@ -82,16 +82,25 @@ I'm a passionate Software Developer and IT graduate from Savitribai Phule Pune U
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labhesh167&" alt="labhesh167" /></p>
 
-<a href="https://www.hackerrank.com/labheshchaudhari" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-</a>
-
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=labhesh167&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=labhesh167&theme=tokyonight&hide_border=false" height="180" />
 </div>
+<h3 align="left">📊 Competitive Programming Stats</h3>
+
+<a href="https://www.hackerrank.com/labheshchaudhari" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+</a>
+
+<a href="https://leetcode.com/labheshchaudhari/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/labheshchaudhari?ext=contest" alt="LeetCode Stats" />
 
 ---
 
